@@ -1,3 +1,4 @@
 <?php
-echo "this is my first php web hosting"
+echo "first line"
+echo "second line"
 ?>
